@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ipat.johanbayona.gca.ipat.LoginActivity"
+    android:windowSoftInputMode="stateHidden" >
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="-0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:id="@+id/imgfondo"
+        android:src="@drawable/fondogris"
+        android:baselineAlignBottom="false"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/contentUp">
+
+
+        <ImageView
+        android:layout_width="1000dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/sombra"
+        android:src="@drawable/divsombra"
+        android:layout_marginTop="230dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"/>
+
+    <!--//Content-->
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:gravity="top" >
+        <!--//arriba-->
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_height="250dp"
+                android:layout_width="match_parent"
+                android:gravity="left"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="#bfffffff">
+
+        <!--//Izquierda-->
+                <LinearLayout
+                    android:id="@+id/logo"
+                    android:orientation="vertical"
+                    android:layout_height="wrap_content"
+                    android:layout_width="570dp"
+                    android:gravity="right" >
+                    <ImageView
+                        android:layout_width="540dp"
+                        android:layout_height="160dp"
+                        android:id="@+id/imglogo"
+                        android:src="@drawable/traceslogo"
+                        android:layout_marginTop="-8dp"
+                        android:gravity="right"
+                        android:layout_marginRight="-20dp"/>
+                    <TextView
+                        android:id="@+id/lbltraces"
+                        android:text="Marca Registrada por GCA Technologies en 2015, dirigida al sector privado, con el fin de fortalecer y mejorar el levantamiento de accidentes en el país."
+                        android:layout_width="440dp"
+                        android:layout_height="100dp"
+                        android:layout_marginTop="-17dp"
+                        android:layout_marginRight="8dp"
+                        android:textSize="14dp"
+                        android:textColor="#3b3b3b"
+                        android:layout_gravity="right"
+                        android:gravity="right" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_height="match_parent"
+                    android:layout_width="40dp"
+                    android:layout_marginLeft="5dp"
+                    android:src="@drawable/sombralineal"/>
+
+                <!--//derecha-->
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_height="match_parent"
+                    android:layout_width="match_parent"
+                    android:gravity="left"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="25dp">
+                    <TextView
+                        android:id="@+id/Lblinfo"
+                        android:text="Para acceder, es necesario que confirme su  usuario y contraseña."
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:layout_marginTop="-15dp"
+                        android:gravity="center"
+                        android:textSize="16dp"
+                        android:textColor="#153d56"/>
+
+                    <!--  Usuario Label -->
+                    <android.support.design.widget.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_marginTop="-5dp">
+                        <EditText android:id="@+id/usuario"
+                            android:layout_width="280dp"
+                            android:layout_height="32dp"
+                            android:inputType="number"
+                            android:hint="Usuario"
+                            android:gravity="center"
+                            android:textColor="#2d2d2d"
+                            android:singleLine="true"
+                            android:textSize="19sp"
+                            android:background="@drawable/rounded_edittext" />
+                    </android.support.design.widget.TextInputLayout>
+
+                    <!--  Contraseña Label -->
+                    <android.support.design.widget.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginBottom="8dp">
+                        <EditText android:id="@+id/contrasena"
+                            android:layout_width="280dp"
+                            android:layout_height="32dp"
+                            android:inputType="textPassword"
+                            android:hint="Contraseña"
+                            android:gravity="center"
+                            android:textColor="#2d2d2d"
+                            android:singleLine="true"
+                            android:textSize="19sp"
+                            android:background="@drawable/rounded_edittext" />
+                    </android.support.design.widget.TextInputLayout>
+
+                    <Button
+                        android:layout_width="280dp"
+                        android:layout_height="40dp"
+                        android:text="  INGRESAR  "
+                        android:id="@+id/ingresar"
+                        android:textSize="22dp"
+                        android:background="@drawable/rounded_button"
+                        android:textColor="#e8e8e8"
+                        android:textStyle="bold"
+                        android:layout_marginTop="15dp"
+                        android:layout_gravity="center"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!--//Abajo-->
+            <LinearLayout
+                android:id="@+id/contentDown"
+                android:orientation="vertical"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="50dp"
+                android:layout_gravity="center"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/lblReg"
+                    android:text="GCA Tech todos los derechos reservados."
+                    android:layout_width="950dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textSize="15sp"
+                    android:textColor="#dbdbdb" />
+
+                <Button
+                    android:layout_width="210dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/BtnLogoGCA"
+                    android:background="@drawable/lococca"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center"
+                    android:focusableInTouchMode="true"/>
+
+                <TextView
+                    android:id="@+id/lblReg2"
+                    android:text="2016 v2.0"
+                    android:layout_width="950dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textSize="15sp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#dbdbdb" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_victimas"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ipat.johanbayona.gca.ipat.NewEvidence.AddVehiclePage1_Fragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="600dp"
+        android:id="@+id/RlyNewEvidence"
+        android:background="#ffffff"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <FrameLayout
+            android:id="@+id/RlyFragment_content"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginBottom="3dp"
+            android:layout_marginTop="65dp">
+
+        </FrameLayout >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:id="@+id/RlyTitulo">
+            <!--182b4b-->
+            <ImageView
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="15dp"
+                android:layout_centerVertical="true"
+                android:id="@+id/BtnAddEvCancel"
+                android:src="@drawable/up"
+                android:contentDescription="" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/evidence_title"
+                android:textSize="15dp"
+                android:id="@+id/TxtText"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="160dp"
+                android:layout_marginRight="160dp"
+                android:textAlignment="center"
+                android:textColor="#8d8d8d"
+                android:gravity="center"
+                android:foregroundGravity="center"
+                android:layout_centerHorizontal="true"/>
+
+            <ImageView
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_marginRight="20dp"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:id="@+id/BtnAddEvVOk"
+                android:src="@drawable/ok"
+                tools:ignore="RtlHardcoded" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:layout_marginRight="100dp"
+            android:layout_marginTop="65dp"
+            android:id="@+id/relativeLayout">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_marginTop="-8dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/divsombra"
+                android:alpha="0.1" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

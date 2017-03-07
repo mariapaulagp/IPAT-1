@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\descargas\3_3_17\IPAT\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_ab94b0f1644fbc03feb3e3c393714c0d821bdc00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\descargas\3_3_17\IPAT\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_88ac16aab5746d13496d3691c73c15cb3023e08a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\descargas\3_3_17\IPAT\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_d9176e10b32c3985665fb3b6d4e3d9b0bf96565c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edwin\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_afa585ad0f40a4b50b5b812076871ac29d9b0507\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\descargas\3_3_17\IPAT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_12ed35b0bd35145d735efc8e0c7a66146e0383df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\programas\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_96d479640ad9d8940852e094d652c0b181464fd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\descargas\3_3_17\IPAT\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_953bb5d0340e5edb436f8bcc1ce222674b74cffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\descargas\3_3_17\IPAT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="79bf7899276e9b1e45ddafda7decd910e29d0e54">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_718a9ca1770a06d14b7ff2b95c9042421e139cbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\descargas\3_3_17\IPAT\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-21.0.3_ba2b90d00d2f94830489c5e22b23f182726735c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\descargas\3_3_17\IPAT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_dfbf35952f6ef7a9f117e98db7fb3be86408c337\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\descargas\3_3_17\IPAT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_ce2d7dc12a68f476bbe2c3872bb0d0d642327d3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\descargas\3_3_17\IPAT\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_2075e48fa7afb063e95f4afc4c5ada20440f7584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\descargas\3_3_17\IPAT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d50793ded54653e8aa42002bdb68cfcf63d48854">
+        <dex dex="D:\descargas\3_3_17\IPAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_529d62f8f6eb9791d5be48bff3814981cc3f1f67\classes.dex" />
+    </item>
+
+</items>

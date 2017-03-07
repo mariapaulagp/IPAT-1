@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ipat.johanbayona.gca.ipat.HomeActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="-0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:id="@+id/imgfondo"
+        android:src="@drawable/fondogris"
+        android:baselineAlignBottom="false"
+        android:scaleType="fitXY"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:gravity="left"
+        android:layout_margin="10dp">
+
+        <!--//Izquierda-->
+        <LinearLayout
+            android:id="@+id/contentInfo"
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_marginTop="-15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_weight=".56"
+            android:gravity="center_vertical" >
+            <!--<ImageView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/agentPhoto"-->
+                <!--android:layout_centerInParent="true"-->
+                <!--android:layout_marginTop="15dp"-->
+                <!--android:gravity="right"-->
+                <!--android:layout_marginRight="-20dp"/>-->
+            <de.hdodenhof.circleimageview.CircleImageView
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/profile_image"
+                android:layout_width="160dp"
+                android:layout_height="160dp"
+                android:src="@drawable/poli"
+                app:civ_border_width="4dp"
+                app:civ_border_color="#ffffff"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/lblApellido"
+                android:text="CONTRERAS ALVARADO"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/lblNombre"
+                android:text="ANDRES LEONARDO"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/lblCargo"
+                android:text="Coronel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:textSize="19dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_height="match_parent"
+            android:layout_width="40dp"
+            android:src="@drawable/sombralineal"/>
+
+        <!--//derecha-->
+        <LinearLayout
+            android:id="@+id/contentMenu"
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_weight=".44"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="-20dp">
+            <Button
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:text="Nuevo IPAT"
+                android:id="@+id/btnNewIpat"
+                android:textSize="20dp"
+                android:textColor="#05639e"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:background="#d2ffffff" />
+            <Button
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:text="Abrir Ipat"
+                android:id="@+id/btnOpenIpat"
+                android:textSize="20dp"
+                android:textColor="#05639e"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:background="#d2ffffff"
+                android:layout_marginTop="10dp"/>
+            <Button
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:text="Actualizar Tablas"
+                android:id="@+id/btnUpdateTable"
+                android:textSize="20dp"
+                android:textColor="#05639e"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:background="#d2ffffff"
+                android:layout_marginTop="10dp"/>
+            <Button
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:text="Actualizar Rangos"
+                android:id="@+id/btnUptdateRange"
+                android:textSize="20dp"
+                android:textColor="#05639e"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:background="#d2ffffff"
+                android:layout_marginTop="10dp"/>
+            <Button
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:text="Cerrar Cesion"
+                android:id="@+id/btnCloseSesion"
+                android:textSize="20dp"
+                android:textColor="#05639e"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:background="#d2ffffff"
+                android:layout_marginTop="10dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

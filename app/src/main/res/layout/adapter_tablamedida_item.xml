@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="2dp"
+        android:layout_height="56dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#ffffff"
+        android:alpha="0.15"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="60dp">
+
+            <TextView
+                android:id="@+id/TxtIndex"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:text=" 01"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textSize="30dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="#182b4b"/>
+
+            <ImageView
+                android:id="@+id/ImgIcon"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="20dp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:src="@drawable/delete"/>
+
+            <!--android:descendantFocusability="afterDescendants"-->
+            <!--android:focusable="false"-->
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center">
+
+                <TextView
+                    android:id="@+id/TxtEvidenciaId"
+                    android:layout_width="280dp"
+                    android:layout_height="wrap_content"
+                    android:text="HJK-984"
+                    android:gravity="left"
+                    android:textSize="20dp"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="#182b4b"/>
+
+                <TextView
+                    android:id="@+id/TxtCategory"
+                    android:layout_width="280dp"
+                    android:layout_height="wrap_content"
+                    android:text="Vehiculo"
+                    android:gravity="left"
+                    android:layout_gravity="center"
+                    android:textSize="16dp"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="#496088"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/TxtDescription"
+                android:layout_width="280dp"
+                android:layout_height="wrap_content"
+                android:text="Hueco de frenado sencillo"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textSize="20dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="#182b4b"/>
+
+            <EditText
+                android:id="@+id/TxtCoordX"
+                android:layout_width="85dp"
+                android:layout_height="wrap_content"
+                android:text=" 0"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textSize="20dp"
+                android:textColor="#182b4b"
+                android:inputType="numberDecimal"
+                android:lines="1"
+                android:focusable="true"
+                android:focusableInTouchMode ="true"/>
+
+            <EditText
+                android:id="@+id/TxtCoordY"
+                android:layout_width="90dp"
+                android:layout_height="wrap_content"
+                android:text=" 0"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:textColor="#182b4b"
+                android:inputType="numberDecimal"
+                android:lines="1"/>
+
+
+        </LinearLayout>
+
+        <!--<RelativeLayout-->
+            <!--android:layout_height="1dp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:background="#8fb5e3" />-->
+
+    </LinearLayout>
+
+</RelativeLayout>

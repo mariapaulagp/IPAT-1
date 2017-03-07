@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--shareInterpolator true comparte para todos los hijo, false tiene que ponersa uno para cada hijo independiente-->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <alpha
+        android:fromAlpha="1"
+        android:toAlpha="0"
+        android:duration="1"
+        android:startOffset="0"/>
+</set>

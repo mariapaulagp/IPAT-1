@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--shareInterpolator true comparte para todos los hijo, false tiene que ponersa uno para cada hijo independiente-->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <scale
+        android:interpolator="@android:anim/overshoot_interpolator"
+        android:fillAfter="true"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:fromXScale="0"
+        android:fromYScale="0"
+        android:toXScale="1.07"
+        android:toYScale="1.07"
+        android:duration="200"
+        android:startOffset="0"/>
+
+    <alpha
+        android:fromAlpha="0.8"
+        android:toAlpha="1"
+        android:duration="1"
+        android:startOffset="0"/>
+</set>

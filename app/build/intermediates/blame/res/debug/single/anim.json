@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_activitypull_in_left.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_activitypull_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\infragment.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\infragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_login_torigt.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_login_torigt.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_lateralmenu_arrow_in.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_lateralmenu_arrow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_activitypull_in_right.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_activitypull_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\opcityin.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\opcityin.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_menu_todown_out.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_menu_todown_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_btnselected.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_btnselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_activitypush_out_left.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_activitypush_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_capablueselected.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_capablueselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_menu_toup_in.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_menu_toup_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_menu_todown_in.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_menu_todown_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_lateralmenu_arrow_out.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_lateralmenu_arrow_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_home_toup.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_home_toup.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_capaselectedtitle.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_capaselectedtitle.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_activitypush_out_right.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_activitypush_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_popup_out.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_popup_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_popup_in.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_popup_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_lateralmenu_in.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_lateralmenu_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_home_todown.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_home_todown.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_capaselectedbtn.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_capaselectedbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_menu_toup_out.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_menu_toup_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_capadeselectedbtn.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_capadeselectedbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ani_indicmenulateral.xml",
+        "source": "C:\\Users\\casa\\Documents\\Gabriel\\01_Proyectos\\03_GCA_technologies\\02_Proyectos\\01_Traces\\IPAT\\app\\src\\main\\res\\anim\\ani_indicmenulateral.xml"
+    }
+]

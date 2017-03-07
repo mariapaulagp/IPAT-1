@@ -1,0 +1,211 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="240dp"
+    android:orientation="vertical"
+    android:background="#182b4b">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_gravity="left"
+                android:layout_marginLeft="20dp"
+                android:text="Ingrese la información para crear el punto Auxiliar."
+                android:id="@+id/TxtAuTitle"
+                android:textColor="#FFF5F5F5"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="780dp"
+                android:layout_height="220dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:weightSum="1">
+
+                <RelativeLayout android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:textSize="60dp"
+                        android:layout_marginLeft="20dp"
+                        android:text="PA"
+                        android:textColor="#ffffff"/>
+
+                    <LinearLayout android:orientation="vertical"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="420dp">
+                        <TextView
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="20dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Id"
+                            android:textColor="#FFF5F5F5"
+                            android:layout_gravity="center"/>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="left"
+                            android:layout_marginTop="-10dp">
+                            <EditText android:id="@+id/TxtAuId"
+                                android:layout_width="160dp"
+                                android:layout_height="32dp"
+                                android:inputType="textNoSuggestions"
+                                android:gravity="center"
+                                android:textColor="#2d2d2d"
+                                android:textSize="19sp"
+                                android:background="@drawable/rounded_edittext" />
+                        </android.support.design.widget.TextInputLayout>
+                    </LinearLayout>
+
+                    <LinearLayout android:orientation="vertical"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="220dp"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        >
+                        <TextView
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="20dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Coord X"
+                            android:textColor="#FFF5F5F5"
+                            android:layout_gravity="center"/>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="left"
+                            android:layout_marginTop="-10dp">
+                            <EditText android:id="@+id/TxtAuCoordX"
+                                android:layout_width="160dp"
+                                android:layout_height="32dp"
+                                android:inputType="numberDecimal"
+                                android:gravity="center"
+                                android:textColor="#2d2d2d"
+                                android:textSize="19sp"
+                                android:background="@drawable/rounded_edittext" />
+                        </android.support.design.widget.TextInputLayout>
+                    </LinearLayout>
+
+                    <LinearLayout android:orientation="vertical"
+                        android:layout_alignParentRight="true"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="20dp">
+
+                        <TextView
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="20dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Coord Y"
+                            android:textColor="#FFF5F5F5"
+                            android:layout_gravity="center"
+                            android:id="@+id/textView" />
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="left"
+                            android:layout_marginTop="-10dp">
+                            <EditText android:id="@+id/TxtAuCoordY"
+                                android:layout_width="160dp"
+                                android:layout_height="32dp"
+                                android:inputType="numberDecimal"
+                                android:gravity="center"
+                                android:textColor="#2d2d2d"
+                                android:textSize="19sp"
+                                android:background="@drawable/rounded_edittext" />
+                        </android.support.design.widget.TextInputLayout>
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <LinearLayout android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:textSize="20dp"
+                        android:layout_marginTop="0dp"
+                        android:text="Descripción"
+                        android:textColor="#FFF5F5F5"
+                        android:layout_marginRight="20dp"
+                        android:layout_gravity="center"/>
+
+                    <android.support.design.widget.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:layout_marginTop="-10dp"
+                        android:layout_marginRight="20dp">
+                        <EditText android:id="@+id/TxtAuDescripcion"
+                            android:layout_width="760dp"
+                            android:layout_height="82dp"
+                            android:inputType="textNoSuggestions"
+                            android:gravity="center"
+                            android:textColor="#2d2d2d"
+                            android:textSize="19sp"
+                            android:background="@drawable/rounded_edittext" />
+                    </android.support.design.widget.TextInputLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="40dp">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:gravity="center">
+                <ImageView
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_gravity="center"
+                    android:id="@+id/BtnAuCancel"
+                    android:src="@drawable/cancel"
+                    android:alpha="0.9"/>
+                <ImageView
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="40dp"
+                    android:layout_gravity="center"
+                    android:id="@+id/BtnAuOK"
+                    android:src="@drawable/ok"
+                    android:alpha="0.9"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>
